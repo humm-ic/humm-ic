@@ -23,32 +23,26 @@
 Saya adalah seorang **Web Developer** dan **Mobile Developer** yang penuh semangat dalam menciptakan solusi digital yang efisien dan elegan.  
 Berbekal pengalaman dan rasa ingin tahu yang tak pernah padam, saya terus mengejar kesempurnaan dalam setiap produk yang saya bangun.
 
-- 🌐 Portfolio: [https://my-portfolio-1990.vercel.app](https://my-portfolio-1990.vercel.app)
-- 💬 Saya terbuka untuk diskusi, kolaborasi, dan kontribusi proyek open source.
-- 📫 Email: humam3201@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/humaam-sukarna](https://linkedin.com/in/humaam-sukarna)
+-  Portfolio: [https://my-portfolio-1990.vercel.app](https://my-portfolio-1990.vercel.app)
+-  Saya terbuka untuk diskusi, kolaborasi, dan kontribusi proyek open source.
+-  Email: humam3201@gmail.com
+-  LinkedIn: [linkedin.com/in/humaam-sukarna](https://linkedin.com/in/humaam-sukarna)
 
 ## 🛠️ Tech Stack
 
-💻 Languages:
+ Languages:
 PHP & Laravel, JavaScript, TypeScript, Golang
 
-🌐 Frontend:
+ Frontend:
 React, Next.js, Bootstrap, Tailwind CSS
 
-🧰 Backend:
+ Backend:
 Laravel, Node.js, Golang
 
-🗄️ Database:
+ Database:
 MySQL
 
-🔧 Tools & Platforms:
+ Tools & Platforms:
 Git, GitHub, Vercel, Docker, Postman
-
-## 📈 Statistik GitHub
-Kutipan Hari Ini
-"Menulis kode bukan hanya tentang menyusun logika, tapi juga tentang menuliskan masa depan."
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=humm-ic&show_icons=true&theme=radical" alt="stats" /> <br/> </p>
-
 
 <p align="center"> <em>Dengan semangat masa lalu dan teknologi masa depan, saya terus melangkah.</em> </p> 
